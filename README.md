@@ -7,7 +7,6 @@
 ```
 Open chrome-related url quickly through Alfred!
 
-
 ```
 
 ## Usage
